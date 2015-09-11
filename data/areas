@@ -1,0 +1,27 @@
+[
+  {
+    "areaid": "0135",
+    "areaname": "Råde",
+    "questionnaire_id": "NJwn5Vpo"
+  },
+  {
+    "areaid": "0111",
+    "areaname": "Hvaler",
+    "questionnaire_id": "VJf2X218"
+  },
+  {
+    "areaid": "0106",
+    "areaname": "Fredrikstad",
+    "questionnaire_id": "VJRKXPFH"
+  },
+  {
+    "areaid": "0219",
+    "areaname": "Bærum",
+    "questionnaire_id": "4kt2F95o"
+  },
+  {
+    "areaid": "XXXX",
+    "areaname": "Test",
+    "questionnaire_id": "V14yX9Ts"
+  }
+]

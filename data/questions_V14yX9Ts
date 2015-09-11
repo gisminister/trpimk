@@ -1,0 +1,110 @@
+{
+  "questionsData": {
+    "version": 1,
+    "areaname": "Test",
+    "areaid": "XXXX",
+    "parties": {
+      "AP": {
+        "shortname": "Ap",
+        "fullname": "Arbeiderpartiet",
+        "id": "AP"
+      },
+      "H": {
+        "shortname": "H",
+        "fullname": "Høyre",
+        "id": "H"
+      },
+      "SV": {
+        "shortname": "SV",
+        "fullname": "Sosialistisk venstreparti",
+        "id": "SV"
+      },
+      "FRP": {
+        "shortname": "FrP",
+        "fullname": "Fremskrittspartiet",
+        "id": "FRP"
+      }
+    },
+    "questionnaire_id": "V14yX9Ts",
+    "questions": [
+      {
+        "sortnumber": 1,
+        "index": 1,
+        "category": "",
+        "question": "Bør det bygges langt flere boliger langs jernbane- og t-banetraseer?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "FRP",
+              "H"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 2,
+        "index": 2,
+        "category": "",
+        "question": "Vil du ha makspris på skolefritidsordningen?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "H"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "FRP"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Kanskje",
+            "parties": [
+              "SV"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 3,
+        "index": 3,
+        "category": "",
+        "question": "Hva kom først?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Høna",
+            "parties": [
+              "SV"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Egget",
+            "parties": [
+              "FRP",
+              "H",
+              "AP"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "areaname": "Test"
+}

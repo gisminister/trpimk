@@ -1,0 +1,698 @@
+{
+  "questionsData": {
+    "version": 1,
+    "areaname": "Råde",
+    "areaid": "0135",
+    "parties": {
+      "AP": {
+        "shortname": "Ap",
+        "fullname": "Arbeiderpartiet",
+        "id": "AP"
+      },
+      "H": {
+        "shortname": "H",
+        "fullname": "Høyre",
+        "id": "H"
+      },
+      "FRP": {
+        "shortname": "FrP",
+        "fullname": "Fremskrittspartiet",
+        "id": "FRP"
+      },
+      "SP": {
+        "shortname": "Sp",
+        "fullname": "Senterpartiet",
+        "id": "SP"
+      },
+      "KRF": {
+        "shortname": "KrF",
+        "fullname": "Kristelig Folkeparti",
+        "id": "KRF"
+      },
+      "MDG": {
+        "shortname": "MDG",
+        "fullname": "Miljøpartiet De Grønne",
+        "id": "MDG"
+      },
+      "VENSTRE": {
+        "shortname": "Venstre",
+        "fullname": "Venstre",
+        "id": "VENSTRE"
+      }
+    },
+    "questionnaire_id": "NJwn5Vpo",
+    "questions": [
+      {
+        "sortnumber": 1,
+        "index": 1,
+        "category": "",
+        "question": "Bør Råde se mot Movar-regionen dersom en kommunesammenslåing skal gjennomføres?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "H",
+              "FRP",
+              "KRF",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "SP"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 2,
+        "index": 2,
+        "category": "",
+        "question": "Bør Råde se sydover mot Glomma dersom en kommunesammenslåing skal gjennomføres?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "H",
+              "FRP",
+              "KRF",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "SP"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 3,
+        "index": 3,
+        "category": "",
+        "question": "Bør Råde satse på en landkommune dersom en kommunesammenslåing skal gjennomføres?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "FRP",
+              "SP",
+              "KRF",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "H"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 4,
+        "index": 4,
+        "category": "",
+        "question": "Har Råde plass til flere flyktninger de neste årene?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "H",
+              "SP",
+              "KRF",
+              "MDG",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "FRP"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 5,
+        "index": 5,
+        "category": "",
+        "question": "Bør eiendomsskatten avvikles, reduseres eller økes for å klare fremtidige utfordringer i Råde?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Avvikles",
+            "parties": [
+              "FRP"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Reduseres",
+            "parties": [
+              "H",
+              "SP",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Økes",
+            "parties": []
+          },
+          {
+            "letter": "d)",
+            "text": "Som i dag",
+            "parties": [
+              "AP",
+              "KRF",
+              "MDG"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 6,
+        "index": 6,
+        "category": "",
+        "question": "Bør jordvernet i Råde være like strengt i hele kommunen i fremtiden?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "H",
+              "FRP",
+              "SP",
+              "KRF",
+              "MDG",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": []
+          }
+        ]
+      },
+      {
+        "sortnumber": 7,
+        "index": 7,
+        "category": "",
+        "question": "Bør Råde bruke en større andel av oppvekstbudsjettet på å øke lærertettheten i kommunen?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "H",
+              "SP",
+              "KRF",
+              "MDG",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "FRP"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 8,
+        "index": 8,
+        "category": "",
+        "question": "Bør Råde søke om å bli valgt ut dersom det åpnes for et prøveprosjekt med heldagsskole?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "KRF",
+              "MDG"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Bare dersom sentrale myndigheter tar regningen",
+            "parties": [
+              "FRP",
+              "SP"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 9,
+        "index": 9,
+        "category": "",
+        "question": "Er du grunnleggende for eller i mot at kommunale omsorgstjenester privatiseres i Råde?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "For",
+            "parties": [
+              "H",
+              "FRP",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "I mot",
+            "parties": [
+              "AP",
+              "SP",
+              "KRF",
+              "MDG"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 10,
+        "index": 10,
+        "category": "",
+        "question": "Bruker Råde kommune for lite eller for mye penger på kulturformål?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "For mye",
+            "parties": []
+          },
+          {
+            "letter": "b)",
+            "text": "For lite",
+            "parties": [
+              "AP",
+              "H",
+              "SP",
+              "KRF",
+              "MDG",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Passe",
+            "parties": [
+              "FRP"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 11,
+        "index": 11,
+        "category": "",
+        "question": "Prioriterer Råde kommune miljøtiltak tilstrekkelig høyt?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": []
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "H",
+              "FRP",
+              "SP",
+              "KRF",
+              "MDG",
+              "VENSTRE"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 12,
+        "index": 12,
+        "category": "",
+        "question": "Bør det tillates bygging av flere hytter i strandsonen i Råde?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": []
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "H",
+              "FRP",
+              "SP",
+              "KRF",
+              "MDG",
+              "VENSTRE"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 13,
+        "index": 13,
+        "category": "",
+        "question": "Bør det være makspris på SFO i Råde?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "SP",
+              "KRF",
+              "MDG",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "H",
+              "FRP"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 14,
+        "index": 14,
+        "category": "",
+        "question": "Bør det innføres karakterer i barneskolen i Råde?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "H",
+              "FRP",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "SP",
+              "KRF",
+              "MDG"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 15,
+        "index": 15,
+        "category": "",
+        "question": "Bør fylkeskommunen legges ned i sin nåværende form?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "H",
+              "FRP",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "SP",
+              "KRF"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 16,
+        "index": 16,
+        "category": "",
+        "question": "Bør kommunen overta driften av videregående skole?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "H",
+              "FRP",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "SP",
+              "KRF"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 17,
+        "index": 17,
+        "category": "",
+        "question": "Bør retten til SFO lovfestes for alle 1.-4.-klassinger?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "H"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Delvis",
+            "parties": []
+          },
+          {
+            "letter": "c)",
+            "text": "Nei",
+            "parties": [
+              "FRP",
+              "SP",
+              "KRF",
+              "MDG",
+              "VENSTRE"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 18,
+        "index": 18,
+        "category": "",
+        "question": "Bør det innføres makspris for SFO?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "H",
+              "FRP",
+              "SP",
+              "KRF",
+              "MDG"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 19,
+        "index": 19,
+        "category": "",
+        "question": "Bør det åpnes for flere typer privatskoler\n",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "H",
+              "FRP"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Delvis",
+            "parties": [
+              "KRF",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "SP",
+              "MDG"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 20,
+        "index": 20,
+        "category": "",
+        "question": "Bør det innføres krav om én times daglig fysisk aktivitet i skoletiden?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "SP",
+              "KRF",
+              "MDG",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "H",
+              "FRP"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 21,
+        "index": 21,
+        "category": "",
+        "question": "Bør det være gratis frukt og grønt på skolen?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "SP",
+              "MDG"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "H",
+              "FRP",
+              "KRF",
+              "VENSTRE"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 22,
+        "index": 22,
+        "category": "",
+        "question": "Bør staten øremerke tilskudd til eldreomsorg i kommunene?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "FRP"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Delvis",
+            "parties": [
+              "AP",
+              "H"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Nei",
+            "parties": [
+              "SP",
+              "KRF",
+              "MDG",
+              "VENSTRE"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 23,
+        "index": 23,
+        "category": "",
+        "question": "Bør det åpnes for rushtidsavgift for å begrense biltrafikken?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "H",
+              "SP",
+              "KRF",
+              "MDG",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "FRP"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "areaname": "Råde"
+}

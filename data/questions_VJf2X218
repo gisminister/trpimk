@@ -1,0 +1,740 @@
+{
+  "questionsData": {
+    "version": 1,
+    "areaname": "Hvaler",
+    "areaid": "0111",
+    "parties": {
+      "AP": {
+        "shortname": "Ap",
+        "fullname": "Arbeiderpartiet",
+        "id": "AP"
+      },
+      "H": {
+        "shortname": "H",
+        "fullname": "Høyre",
+        "id": "H"
+      },
+      "FRP": {
+        "shortname": "FrP",
+        "fullname": "Fremskrittspartiet",
+        "id": "FRP"
+      },
+      "SP": {
+        "shortname": "Sp",
+        "fullname": "Senterpartiet",
+        "id": "SP"
+      },
+      "MDG": {
+        "shortname": "MDG",
+        "fullname": "Miljøpartiet De Grønne",
+        "id": "MDG"
+      },
+      "SV": {
+        "shortname": "SV",
+        "fullname": "Sosialistisk Venstreparti",
+        "id": "SV"
+      },
+      "VENSTRE": {
+        "shortname": "Venstre",
+        "fullname": "Venstre",
+        "id": "VENSTRE"
+      }
+    },
+    "questionnaire_id": "VJf2X218",
+    "questions": [
+      {
+        "sortnumber": 1,
+        "index": 1,
+        "category": "",
+        "question": "Bør Hvaler slå seg sammen med andre kommuner i Nedre gloma-regionen?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": []
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "FRP",
+              "SP"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Kommunen bør i hvert fall starte en utredningsprosess",
+            "parties": [
+              "AP",
+              "H",
+              "MDG",
+              "SV",
+              "VENSTRE"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 2,
+        "index": 2,
+        "category": "",
+        "question": "Bør det tillates private grunnskoler på Hvaler?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "H",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "SP",
+              "MDG",
+              "SV"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Kun hvis basert på religiøst eller alternativt ped. opplegg",
+            "parties": [
+              "FRP"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 3,
+        "index": 3,
+        "category": "",
+        "question": "Bør det åpnes for drift av private sykehjem på Hvaler?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "H",
+              "FRP",
+              "MDG"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "SP",
+              "SV"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Kun dersom kommunen forplikter seg til å kjøpe plasser",
+            "parties": [
+              "VENSTRE"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 4,
+        "index": 4,
+        "category": "",
+        "question": "Bør eiendomsskatten avvikles på Hvaler?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "FRP"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "SP",
+              "SV"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Kun dersom det er mulig uten kutt i tjenestetilbudet",
+            "parties": [
+              "AP",
+              "H",
+              "MDG",
+              "VENSTRE"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 5,
+        "index": 5,
+        "category": "",
+        "question": "Bilistene skal betale nesten 8 milliarder for å finansiere veier og kollektivløsninger i Nedre Glomma-regionen. Hvordan bør pengene fordeles?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Størst andel til nye veier",
+            "parties": [
+              "H",
+              "FRP"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Størst andel til gang- og sykkelveier",
+            "parties": [
+              "AP",
+              "SP",
+              "MDG",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Størst andel til bedre busstilbud og muligens gratis buss",
+            "parties": [
+              "SV"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 6,
+        "index": 6,
+        "category": "",
+        "question": "Bør Hvaler kommune bruke en større andel av oppvekstbudsjettet til å øke lærertettheten i grunnskolen?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "H",
+              "FRP",
+              "SP",
+              "MDG",
+              "SV",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei, den er allerede på et godt nok nivå",
+            "parties": []
+          }
+        ]
+      },
+      {
+        "sortnumber": 7,
+        "index": 7,
+        "category": "",
+        "question": "Bør det tillates bygging av flere hytter langs kysten i den såkalte 100-meterssonen på Hvaler?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": []
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "H",
+              "FRP",
+              "SP",
+              "MDG",
+              "SV",
+              "VENSTRE"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 8,
+        "index": 8,
+        "category": "",
+        "question": "Dersom det åpnes for et prøveprosjekt med heldagsskole, bør Hvaler kommune søke om å bli valgt ut?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "H",
+              "FRP",
+              "SV"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "SP",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Bare dersom sentrale myndigheter tar ekstraregningen",
+            "parties": [
+              "MDG"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 9,
+        "index": 9,
+        "category": "",
+        "question": "Bør boplikten oppheves på Hvaler?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "H"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "FRP",
+              "SP",
+              "MDG",
+              "SV",
+              "VENSTRE"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 10,
+        "index": 10,
+        "category": "",
+        "question": "Bør det bygges én ny skole som erstatter og samler dagens grunnskoler på Hvaler?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "H",
+              "MDG",
+              "SV",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "FRP",
+              "SP"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "\n",
+            "parties": []
+          }
+        ]
+      },
+      {
+        "sortnumber": 11,
+        "index": 11,
+        "category": "",
+        "question": "Bør kommunen stille opp med gratis tomt dersom en privat aktør ønsker å etablere hotell i et attraktivt område på Hvaler",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "FRP"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "H",
+              "SP",
+              "MDG",
+              "SV",
+              "VENSTRE"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 12,
+        "index": 12,
+        "category": "",
+        "question": "Bør Hvaler kommune ta opp lån for å bygge nye sykehjemsplasser eller kjøpe disse gjennom private?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Kjøpe gjennom private",
+            "parties": [
+              "FRP",
+              "MDG",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Bygge selv",
+            "parties": [
+              "AP",
+              "H",
+              "SP",
+              "SV"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 13,
+        "index": 13,
+        "category": "",
+        "question": "Er det riktig å sette ned fartsgrensen fra 80 og 70 til 60 km/t på Hvalerveien?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "H"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Bare hvis det fører til at det samtidig blir bygd sykkelvei der",
+            "parties": [
+              "AP",
+              "FRP",
+              "SP",
+              "MDG",
+              "SV"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 14,
+        "index": 14,
+        "category": "",
+        "question": "Bør Hvaler kommune bidra i et spleiselag for å realisere et Nasjonalparksenter i kommunen?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "SV"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "H",
+              "FRP",
+              "SP"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Bare dersom bidraget er på under tre millioner kroner",
+            "parties": [
+              "MDG",
+              "VENSTRE"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 15,
+        "index": 15,
+        "category": "",
+        "question": "Bør Hvaler kommune fortsatt ta seg råd til en fulltidsansatt ordfører?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "H",
+              "FRP",
+              "SP",
+              "SV",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei, i en så liten kommune er det unødvendig",
+            "parties": []
+          },
+          {
+            "letter": "c)",
+            "text": "Bare dersom økonomien er slik at man går med overskudd",
+            "parties": [
+              "MDG"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 16,
+        "index": 16,
+        "category": "",
+        "question": "Skal retten til SFO lovfestes for alle 1.-4.-klassinger?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "H"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Delvis",
+            "parties": [
+              "SV"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Nei",
+            "parties": [
+              "FRP",
+              "SP",
+              "MDG",
+              "VENSTRE"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 17,
+        "index": 17,
+        "category": "",
+        "question": "Bør det være makspris på SFO?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "SV",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "H",
+              "FRP",
+              "SP",
+              "MDG"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 18,
+        "index": 18,
+        "category": "",
+        "question": "Bør det innføres karakterer i barneskolen?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "H",
+              "FRP"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "SP",
+              "MDG",
+              "SV",
+              "VENSTRE"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 19,
+        "index": 19,
+        "category": "",
+        "question": "Bør det innføres krav om én times daglig aktivitet i skoletiden?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "SP",
+              "MDG",
+              "SV",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "H",
+              "FRP"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 20,
+        "index": 20,
+        "category": "",
+        "question": "Bør det være gratis frukt og grønt på skolen",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "SP",
+              "MDG",
+              "SV"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "H",
+              "FRP",
+              "VENSTRE"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 21,
+        "index": 21,
+        "category": "",
+        "question": "Bør staten øremerke tilskudd til eldreomsorg i kommunene?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "FRP"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Delvis",
+            "parties": [
+              "AP",
+              "H",
+              "SV"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Nei",
+            "parties": [
+              "SP",
+              "MDG",
+              "VENSTRE"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 22,
+        "index": 22,
+        "category": "",
+        "question": "Vil du at fylkeskommunen skal avvikles?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "H",
+              "FRP",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Regioner i stedet",
+            "parties": []
+          },
+          {
+            "letter": "c)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "SP",
+              "MDG",
+              "SV"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 23,
+        "index": 23,
+        "category": "",
+        "question": "Bør det åpnes for rushtidsavgift for å begrense biltrafikken?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "H",
+              "SP",
+              "MDG",
+              "SV",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "FRP"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "areaname": "Hvaler"
+}

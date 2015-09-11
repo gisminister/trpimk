@@ -1,0 +1,859 @@
+{
+  "questionsData": {
+    "version": 1,
+    "areaname": "Fredrikstad",
+    "areaid": "0106",
+    "parties": {
+      "AP": {
+        "shortname": "Ap",
+        "fullname": "Arbeiderpartiet",
+        "id": "AP"
+      },
+      "H": {
+        "shortname": "H",
+        "fullname": "Høyre",
+        "id": "H"
+      },
+      "FRP": {
+        "shortname": "FrP",
+        "fullname": "Fremskrittspartiet",
+        "id": "FRP"
+      },
+      "SP": {
+        "shortname": "Sp",
+        "fullname": "Senterpartiet",
+        "id": "SP"
+      },
+      "KRF": {
+        "shortname": "KrF",
+        "fullname": "Kristelig Folkeparti",
+        "id": "KRF"
+      },
+      "SV": {
+        "shortname": "SV",
+        "fullname": "Sosialistisk Venstreparti",
+        "id": "SV"
+      },
+      "VENSTRE": {
+        "shortname": "Venstre",
+        "fullname": "Venstre",
+        "id": "VENSTRE"
+      },
+      "MDG": {
+        "shortname": "MDG",
+        "fullname": "Miljøpartiet De Grønne",
+        "id": "MDG"
+      },
+      "RØDT": {
+        "shortname": "Rødt",
+        "fullname": "Rødt",
+        "id": "RØDT"
+      },
+      "PP": {
+        "shortname": "PP",
+        "fullname": "Pensjonistpartiet",
+        "id": "PP"
+      },
+      "PDK": {
+        "shortname": "PDK",
+        "fullname": "De Kristne",
+        "id": "PDK"
+      },
+      "BYM": {
+        "shortname": "Bym",
+        "fullname": "Bymiljølista",
+        "id": "BYM"
+      }
+    },
+    "questionnaire_id": "VJRKXPFH",
+    "questions": [
+      {
+        "sortnumber": 1,
+        "index": 1,
+        "category": "",
+        "question": "Bør Fredrikstad slå seg sammen med andre kommuner i Nedre Glomma-regionen?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "KRF",
+              "VENSTRE",
+              "BYM"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "SP",
+              "RØDT",
+              "PDK"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Det bør i hvert fall startes en prosess for å utrede",
+            "parties": [
+              "H",
+              "FRP",
+              "SV",
+              "MDG",
+              "PP"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 2,
+        "index": 2,
+        "category": "",
+        "question": "Bør det tillates flere private grunnskoler i Fredrikstad?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "H",
+              "FRP",
+              "KRF",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "SP",
+              "RØDT",
+              "PP",
+              "BYM"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Kun hvis basert på religiøst eller alternativt ped. opplegg",
+            "parties": [
+              "AP",
+              "SV",
+              "MDG",
+              "PDK"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 3,
+        "index": 3,
+        "category": "",
+        "question": "Bør det innføres rushtidsavgift for å få ned privatbilismen i Fredrikstad?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "KRF",
+              "SV",
+              "MDG",
+              "RØDT",
+              "BYM"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "H",
+              "FRP",
+              "SP",
+              "VENSTRE",
+              "PP",
+              "PDK"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 4,
+        "index": 4,
+        "category": "",
+        "question": "Bør det bygges en fylkesscene i Fredrikstad som et spleiselag mellom kommune, fylke og stat?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "FRP",
+              "SP",
+              "KRF",
+              "SV",
+              "MDG",
+              "PP"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "H",
+              "VENSTRE",
+              "RØDT",
+              "PDK",
+              "BYM"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 5,
+        "index": 5,
+        "category": "",
+        "question": "Bør det åpnes for drift av private sykehjem i Fredrikstad?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "H",
+              "FRP",
+              "KRF",
+              "VENSTRE",
+              "MDG",
+              "PDK"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "SP",
+              "SV",
+              "RØDT",
+              "PP",
+              "BYM"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Kun dersom kommunen forplikter seg til å kjøpe plasser",
+            "parties": []
+          }
+        ]
+      },
+      {
+        "sortnumber": 6,
+        "index": 6,
+        "category": "",
+        "question": "Er det riktig av kommunen å fullfinansiere ordningen med gratis ferger med skattebetalernes penger?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "H",
+              "SP",
+              "SV",
+              "VENSTRE",
+              "MDG",
+              "RØDT",
+              "PP",
+              "PDK",
+              "BYM"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "FRP",
+              "KRF"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 7,
+        "index": 7,
+        "category": "",
+        "question": "Er det riktig å kutte ut eiendomsskatten i Fredrikstad?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "FRP"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Kun hvis det er mulig uten at tjenestetilbudet blir dårligere",
+            "parties": [
+              "AP",
+              "H",
+              "KRF",
+              "VENSTRE",
+              "PDK"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Nei",
+            "parties": [
+              "SP",
+              "SV",
+              "MDG",
+              "RØDT",
+              "PP",
+              "BYM"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 8,
+        "index": 8,
+        "category": "",
+        "question": "Bør markagrensene i Fredrikstad vernes absolutt i fremtiden?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "H",
+              "SP",
+              "SV",
+              "VENSTRE",
+              "MDG",
+              "RØDT",
+              "PP",
+              "BYM"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "FRP",
+              "KRF",
+              "PDK"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 9,
+        "index": 9,
+        "category": "",
+        "question": "Bør Fredrikstad kino privatiseres?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "H",
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "FRP",
+              "SP",
+              "KRF",
+              "SV",
+              "MDG",
+              "RØDT",
+              "PP",
+              "PDK",
+              "BYM"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 10,
+        "index": 10,
+        "category": "",
+        "question": "Bør Fredrikstad kommune søke om å få arrangere Tall Ships Races igjen?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "SP",
+              "SV",
+              "PP",
+              "PDK"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "BYM"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Ja, men da bør drift og gjennomføring settes ut til private",
+            "parties": [
+              "H",
+              "FRP",
+              "KRF",
+              "VENSTRE",
+              "MDG",
+              "RØDT"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 11,
+        "index": 11,
+        "category": "",
+        "question": "Er det riktig av Fredrikstad kommune å bygge et ridesenter til rundt 40 millioner kroner",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "SV",
+              "PP"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "H",
+              "FRP",
+              "SP",
+              "KRF",
+              "VENSTRE",
+              "MDG",
+              "RØDT",
+              "PDK",
+              "BYM"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 12,
+        "index": 12,
+        "category": "",
+        "question": "Bilistene skal betale nesten 8 milliarder for å finansiere veier og kollektivløsninger i Nedre Glomma-regionen. Hvordan bør pengene fordeles?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Størst andel til nye veier",
+            "parties": [
+              "AP",
+              "H",
+              "FRP",
+              "SP",
+              "VENSTRE",
+              "PP",
+              "PDK"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Størst andel til gang- og sykkelveier",
+            "parties": [
+              "SV",
+              "MDG",
+              "RØDT"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Størst andel til bedre busstilbud og muligens gratis buss",
+            "parties": [
+              "KRF",
+              "BYM"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 13,
+        "index": 13,
+        "category": "",
+        "question": "Bør Fredrikstad bruke en større andel av oppvekstbudsjettet til å øke lærertettheten i grunnskolen?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "SP",
+              "KRF",
+              "SV",
+              "MDG",
+              "RØDT",
+              "PP",
+              "PDK",
+              "BYM"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei, den er allerede på et godt nok nivå",
+            "parties": [
+              "H",
+              "FRP",
+              "VENSTRE"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 14,
+        "index": 14,
+        "category": "",
+        "question": "Bør det tillattes bygging av flere hytter langs kysten i det såkalte 100-metersbeltet i Fredrikstad?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "FRP"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "H",
+              "SP",
+              "KRF",
+              "SV",
+              "VENSTRE",
+              "MDG",
+              "RØDT",
+              "PP",
+              "PDK",
+              "BYM"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 15,
+        "index": 15,
+        "category": "",
+        "question": "Hvilket hovedbibliotek bør Fredrikstad kommune ta seg råd til?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Det bør være som det er i dag",
+            "parties": [
+              "KRF"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Dagens bibliotek bør  restaureres ytterligere",
+            "parties": [
+              "H",
+              "FRP",
+              "VENSTRE",
+              "MDG",
+              "RØDT",
+              "PDK",
+              "BYM"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Det bør bygges et nytt fremtidsbibliotek",
+            "parties": [
+              "SP",
+              "PP"
+            ]
+          },
+          {
+            "letter": "d)",
+            "text": "Utrede både restaurering og nybygging parallelt",
+            "parties": [
+              "AP",
+              "SV"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 16,
+        "index": 16,
+        "category": "",
+        "question": "Dersom det åpnes for et prøveprosjekt med heldagsskole, bør Fredrikstad kommune søke om å bli valgt ut?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "FRP",
+              "SV",
+              "VENSTRE",
+              "PP",
+              "BYM"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "H",
+              "SP",
+              "KRF",
+              "MDG",
+              "PDK"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Bare dersom sentrale myndigheter tar ekstraregningen",
+            "parties": [
+              "AP",
+              "RØDT"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 17,
+        "index": 17,
+        "category": "",
+        "question": "Bør retten til skolefritidsordning (SFO) lovfestes for alle 1.-4.-klassinger?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "H",
+              "RØDT"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Delvis",
+            "parties": [
+              "SV"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Nei",
+            "parties": [
+              "FRP",
+              "SP",
+              "KRF",
+              "VENSTRE",
+              "MDG"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 18,
+        "index": 18,
+        "category": "",
+        "question": "Bør det være makspris på SFO",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "SV",
+              "VENSTRE",
+              "RØDT"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "H",
+              "FRP",
+              "SP",
+              "KRF",
+              "MDG"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 19,
+        "index": 19,
+        "category": "",
+        "question": "Bør det innføres karakterer i grunnskolen?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "H",
+              "FRP"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "SP",
+              "KRF",
+              "SV",
+              "VENSTRE",
+              "MDG",
+              "RØDT"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 20,
+        "index": 20,
+        "category": "",
+        "question": "Bør det innføres krav om én times daglig fysisk aktivitet i skoletiden?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "SP",
+              "KRF",
+              "SV",
+              "VENSTRE",
+              "MDG"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "H",
+              "FRP",
+              "RØDT"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 21,
+        "index": 21,
+        "category": "",
+        "question": "Bør det være gratis frukt og grønt på skolen?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "SP",
+              "SV",
+              "MDG",
+              "RØDT"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "H",
+              "FRP",
+              "KRF",
+              "VENSTRE"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 22,
+        "index": 22,
+        "category": "",
+        "question": "Bør staten øremerke tilskudd til eldreomsorg i kommunene?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "FRP"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Delvis",
+            "parties": [
+              "AP",
+              "H",
+              "SV"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Nei",
+            "parties": [
+              "SP",
+              "KRF",
+              "VENSTRE",
+              "MDG",
+              "RØDT"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 23,
+        "index": 23,
+        "category": "",
+        "question": "Bør fylkeskommunen avvikles?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "H",
+              "FRP"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Regioner i stedet",
+            "parties": [
+              "KRF"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "SP",
+              "SV",
+              "VENSTRE",
+              "MDG",
+              "RØDT"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "areaname": "Fredrikstad"
+}

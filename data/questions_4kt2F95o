@@ -1,0 +1,762 @@
+{
+  "questionsData": {
+    "version": 1,
+    "areaname": "Bærum",
+    "areaid": "0219",
+    "parties": {
+      "AP": {
+        "shortname": "Ap",
+        "fullname": "Arbeiderpartiet",
+        "id": "AP"
+      },
+      "H": {
+        "shortname": "H",
+        "fullname": "Høyre",
+        "id": "H"
+      },
+      "FRP": {
+        "shortname": "FrP",
+        "fullname": "Fremskrittspartiet",
+        "id": "FRP"
+      },
+      "SP": {
+        "shortname": "Sp",
+        "fullname": "Senterpartiet",
+        "id": "SP"
+      },
+      "KRF": {
+        "shortname": "KrF",
+        "fullname": "Kristelig Folkeparti",
+        "id": "KRF"
+      },
+      "SV": {
+        "shortname": "SV",
+        "fullname": "Sosialistisk Venstreparti",
+        "id": "SV"
+      },
+      "VENSTRE": {
+        "shortname": "Venstre",
+        "fullname": "Venstre",
+        "id": "VENSTRE"
+      },
+      "MDG": {
+        "shortname": "MDG",
+        "fullname": "Miljøpartiet De Grønne",
+        "id": "MDG"
+      },
+      "RØDT": {
+        "shortname": "Rødt",
+        "fullname": "Rødt",
+        "id": "RØDT"
+      },
+      "PP": {
+        "shortname": "Pp",
+        "fullname": "Pensjonistpartiet",
+        "id": "PP"
+      },
+      "DKR": {
+        "shortname": "DKR",
+        "fullname": "Partiet De Kristne",
+        "id": "DKR"
+      }
+    },
+    "questionnaire_id": "4kt2F95o",
+    "questions": [
+      {
+        "sortnumber": 1,
+        "index": 1,
+        "category": "",
+        "question": "Bør det bygges langt flere boliger langs jernbane- og t-banetraseer?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "H",
+              "FRP",
+              "KRF",
+              "SV",
+              "MDG",
+              "RØDT",
+              "PP",
+              "DKR"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "SP"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Vet ikke",
+            "parties": [
+              "VENSTRE"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 2,
+        "index": 2,
+        "category": "",
+        "question": "Vil du ha makspris på skolefritidsordningen?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "H",
+              "SP",
+              "KRF",
+              "SV",
+              "MDG",
+              "RØDT",
+              "PP",
+              "DKR"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "FRP",
+              "VENSTRE"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 3,
+        "index": 3,
+        "category": "",
+        "question": "Skal det innføres karakterer i barneskolen?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "H",
+              "FRP"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "SP",
+              "KRF",
+              "SV",
+              "VENSTRE",
+              "MDG",
+              "RØDT",
+              "PP",
+              "DKR"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 4,
+        "index": 4,
+        "category": "",
+        "question": "Bør alle nye barnehager være i kommunal regi?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "SP",
+              "SV",
+              "RØDT"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "H",
+              "FRP",
+              "KRF",
+              "VENSTRE",
+              "MDG",
+              "PP",
+              "DKR"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 5,
+        "index": 5,
+        "category": "",
+        "question": "I dag har Bærum fem bibliotekfilialer. Hvor mange bibliotek bør Bærum ha i fremtiden?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Færre enn i dag",
+            "parties": []
+          },
+          {
+            "letter": "b)",
+            "text": "Flere enn i dag",
+            "parties": [
+              "AP",
+              "H",
+              "SP",
+              "SV",
+              "VENSTRE",
+              "MDG",
+              "RØDT"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Samme som i dag",
+            "parties": [
+              "FRP",
+              "KRF",
+              "PP",
+              "DKR"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 6,
+        "index": 6,
+        "category": "",
+        "question": "Skal det åpnes for flere typer private grunnskoler?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "H",
+              "FRP",
+              "VENSTRE",
+              "MDG",
+              "DKR"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "SP",
+              "KRF",
+              "SV",
+              "RØDT",
+              "PP"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 7,
+        "index": 7,
+        "category": "",
+        "question": "Bør Marka åpnes for boligbygging?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "FRP",
+              "KRF"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "H",
+              "SP",
+              "SV",
+              "VENSTRE",
+              "MDG",
+              "RØDT",
+              "PP",
+              "DKR"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 8,
+        "index": 8,
+        "category": "",
+        "question": "Bør kommunen overlate driften av seniorsentre til private og/eller frivillige aktører?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "FRP",
+              "KRF",
+              "MDG",
+              "DKR"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "H",
+              "SP",
+              "SV",
+              "RØDT",
+              "PP"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Vet ikke",
+            "parties": [
+              "VENSTRE"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 9,
+        "index": 9,
+        "category": "",
+        "question": "Vil du at fylkeskommunen skal avvikles?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "H",
+              "FRP",
+              "PP",
+              "DKR"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "SP",
+              "SV",
+              "MDG",
+              "RØDT"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Vet ikke",
+            "parties": [
+              "KRF",
+              "VENSTRE"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 10,
+        "index": 10,
+        "category": "",
+        "question": "Skal det åpnes for rushtidsavgift på E18 (økt bompengeavgift i rushtiden) for å begrense biltrafikken?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "KRF",
+              "SV",
+              "VENSTRE",
+              "MDG",
+              "RØDT"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "H",
+              "FRP",
+              "SP",
+              "PP",
+              "DKR"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 11,
+        "index": 11,
+        "category": "",
+        "question": "Bør kommunen doble boligantallet på Fornebu?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "MDG",
+              "RØDT",
+              "PP"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "H",
+              "FRP",
+              "SP",
+              "KRF",
+              "SV",
+              "DKR"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Vet ikke",
+            "parties": [
+              "VENSTRE"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 12,
+        "index": 12,
+        "category": "",
+        "question": "Bør kommunen innføre forbud mot tigging?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "FRP",
+              "SP"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "H",
+              "KRF",
+              "SV",
+              "VENSTRE",
+              "MDG",
+              "RØDT",
+              "PP",
+              "DKR"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 13,
+        "index": 13,
+        "category": "",
+        "question": "Må kristne verdier og tradisjoner spille en større rolle i samfunnet? ",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "SP",
+              "KRF",
+              "PP",
+              "DKR"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "H",
+              "FRP",
+              "SV",
+              "VENSTRE",
+              "MDG",
+              "RØDT"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 14,
+        "index": 14,
+        "category": "",
+        "question": "Bør det bli generell adgang til søndagsåpne butikker?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "H",
+              "FRP"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "SP",
+              "KRF",
+              "SV",
+              "VENSTRE",
+              "MDG",
+              "RØDT",
+              "PP",
+              "DKR"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 15,
+        "index": 15,
+        "category": "",
+        "question": "Bør kommunen kjøpe/bygge rimelige utleieboliger til lavtlønnsgrupper?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "H",
+              "SP",
+              "KRF",
+              "SV",
+              "VENSTRE",
+              "MDG",
+              "RØDT",
+              "PP",
+              "DKR"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "FRP"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 16,
+        "index": 16,
+        "category": "",
+        "question": "Bør Bærum slå seg sammen med noen av nabokommunene?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "VENSTRE"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "FRP",
+              "SP",
+              "KRF",
+              "SV",
+              "MDG",
+              "RØDT",
+              "PP",
+              "DKR"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Vet ikke",
+            "parties": [
+              "AP",
+              "H"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 17,
+        "index": 17,
+        "category": "",
+        "question": "Bør kommunen sørge for at det frivillige kulturlivet (teater, dans, korps osv.) får flere og bedre øvings- og lagerlokaler? ",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "H",
+              "FRP",
+              "SP",
+              "KRF",
+              "SV",
+              "VENSTRE",
+              "MDG",
+              "RØDT",
+              "PP",
+              "DKR"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": []
+          }
+        ]
+      },
+      {
+        "sortnumber": 18,
+        "index": 18,
+        "category": "",
+        "question": "Er det en kommunal oppgave å sørge for at dagens kulturtilbud ved institusjonene opprettholdes?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "AP",
+              "H",
+              "FRP",
+              "SP",
+              "KRF",
+              "SV",
+              "VENSTRE",
+              "MDG",
+              "RØDT",
+              "PP",
+              "DKR"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": []
+          }
+        ]
+      },
+      {
+        "sortnumber": 19,
+        "index": 19,
+        "category": "",
+        "question": "Hva mener du om ny svømmehall på Rud?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Bør ikke bygges",
+            "parties": [
+              "SP"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Ja til «billigløsning» med 50-metersbasseng til 150 millioner kroner",
+            "parties": [
+              "AP",
+              "H",
+              "FRP",
+              "KRF",
+              "SV",
+              "VENSTRE",
+              "MDG",
+              "RØDT",
+              "PP",
+              "DKR"
+            ]
+          },
+          {
+            "letter": "c)",
+            "text": "Bygg fullt badeland med svømmebasseng, stupetårn og vannsklier med kommunale midler",
+            "parties": []
+          }
+        ]
+      },
+      {
+        "sortnumber": 20,
+        "index": 20,
+        "category": "",
+        "question": "Hva mener du om fotballstadion på Nadderud?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Bra som den er. Fotballen får betale for en eventuell utbygging. ",
+            "parties": [
+              "AP",
+              "H",
+              "FRP",
+              "SP",
+              "KRF",
+              "SV",
+              "VENSTRE",
+              "MDG",
+              "RØDT",
+              "PP"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Kommunen bør legge pengene på bordet som trengs for å bygge et nytt, kommunalt anlegg. ",
+            "parties": []
+          },
+          {
+            "letter": "c)",
+            "text": "La privat utbygger få lov til å bygge leiligheter på området mot at de betaler for fotballstadion.   ",
+            "parties": [
+              "DKR"
+            ]
+          }
+        ]
+      },
+      {
+        "sortnumber": 21,
+        "index": 21,
+        "category": "",
+        "question": "Bør Bærum stoppe all nedbygging av dyrket mark?",
+        "alternatives": [
+          {
+            "letter": "a)",
+            "text": "Ja",
+            "parties": [
+              "SP",
+              "KRF",
+              "SV",
+              "VENSTRE",
+              "MDG",
+              "RØDT",
+              "DKR"
+            ]
+          },
+          {
+            "letter": "b)",
+            "text": "Nei",
+            "parties": [
+              "AP",
+              "H",
+              "FRP",
+              "PP"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "areaname": "Bærum"
+}

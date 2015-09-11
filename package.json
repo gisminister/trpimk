@@ -1,0 +1,20 @@
+{
+  "name": "trpimk",
+  "version": "1.0.0",
+  "description": "The real partiskillelinjer in my kommune",
+  "main": "index.js",
+  "dependencies": {
+    "d3": "^3.5.6",
+    "es6-promise": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch-js": "watchify index.js -o dist/therealpartiskillelinjeinmykommune.js -dv",
+    "watch": "npm run watch-js",
+    "build-dev": "browserify index.js -o  dist/therealpartiskillelinjeinmykommune.js",
+    "build": "browserify index.js | uglifyjs -mc > dist/therealpartiskillelinjeinmykommune-min.js"
+  },
+  "author": "@gisminister",
+  "license": "ISC"
+}
