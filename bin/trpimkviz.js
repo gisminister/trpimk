@@ -59,8 +59,12 @@ function renderGraph(config) {
         .attr('height', height);
     svg.exit().remove();
 
+    var navbardata = [];
+    if(config.areas.length>1){
+      navbardata = config.areas;
+    }
     var navbar = config.container.selectAll("ul.trpimk-navbar")
-        .data([config.areas]);
+        .data([navbardata]);
     navbar.enter().append('ul')
         .attr('class', 'trpimk-navbar');
 
