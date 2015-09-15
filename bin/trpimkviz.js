@@ -63,15 +63,14 @@ function renderGraph(config) {
     if(config.areas.length>1){
       navbardata = config.areas;
     }
+
     var navbar = config.container.selectAll("ul.trpimk-navbar")
         .data([navbardata]);
     navbar.enter().append('ul')
         .attr('class', 'trpimk-navbar');
 
     var navbaritems = navbar.selectAll("li")
-        .data(function (d) {
-          return d;
-        });
+        .data(navbardata);
     navbaritems.enter().append("li")
         .attr("class", "trpimk-navbaritems");
 
@@ -79,10 +78,12 @@ function renderGraph(config) {
         .text(function (d) {
           return d.areaname;
         })
+        .classed("selected", function(d,i){return config.area == config.areas[i];})
         .on("click", function (d, i) {
           config.area = config.areas[i];
           renderGraph(config);
         });
+    navbaritems.exit().remove();
 
 
     force
@@ -198,7 +199,7 @@ function renderGraph(config) {
     }
 
     function showGlobalInfo(){
-      console.log("Global info")
+      return;
     }
   }
 

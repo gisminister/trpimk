@@ -34,11 +34,16 @@ ul.trpimk-navbar li
 {
     display: block;
     float: left;
-    color: #dc0000;
-    background-color: rgba(220,0,0,0.1);
-    border: 1px solid #dc0000;
+    border: 1px solid rgba(0,0,0,0.5);
+    background-color: rgba(0,0,0,0.1);
+    color: rgba(0,0,0,0.5);
     border-radius: 3px;
     padding: 8px 10px;
     margin: 0 10px 10px 0;
     cursor: pointer;
+}
+ul.trpimk-navbar li.selected {
+    border: 1px solid rgba(87,176,15,1);
+    background-color: rgba(87,176,15,1);
+    color: rgba(255,255,255,1);
 }
